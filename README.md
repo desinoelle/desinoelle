@@ -1,14 +1,14 @@
 # Hi, I'm Desiree 👾
 
 I'm a CS student at NC State University and a front-end developer transitioning into game development.
-I'm passionate about building interactive experiences — from web apps to games — and I'm currently
+I'm passionate about building interactive experiences, from web apps to games, and I'm currently
 developing my first Unity project as part of my Foundations of Interactive Game Design coursework.
 
 ---
 
 ## 🎮 What I'm Working On
 
-- 🕹️ Building my first Unity game (C#) — more details coming soon!
+- 🕹️ Building my first Unity game (C#), more details coming soon!
 - 📚 Finishing my CS degree at NCSU
 - 🌐 Rebuilding my portfolio to reflect my game dev journey
 
@@ -30,7 +30,7 @@ developing my first Unity project as part of my Foundations of Interactive Game 
 ## 🚀 What I Bring
 
 My background in front-end web development gives me a strong foundation in
-event-driven programming, UI systems, and shipping real projects — skills that
+event-driven programming, UI systems, and shipping real projects, skills that
 translate directly into game development. I'm also an experienced project manager,
 which means I know how to scope, plan, and actually finish things.
 
